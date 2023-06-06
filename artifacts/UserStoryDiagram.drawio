@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2023-06-06T15:29:30.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) diagrams.net/32.4.0 Chrome/112.0.5615.183 Electron/24.3.1 Safari/537.36" etag="Xbrd-fFpSkV9Zwk9uaNd" version="21.3.7" type="device">
+  <diagram name="Page-1" id="Oz4huAPZrJ5pLOGolLlC">
+    <mxGraphModel dx="1302" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7eOik9Orw1UgnDRmK48w-29" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-25" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-1" value="As a student I want to be able to see&lt;br&gt;all my courses that I am taking and have taken&lt;br&gt;in the past" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-5" value="As a student I want to choose whether I want to review my course as a whole or a particular lesson, or a particular lecture of a lesson." style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-20" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-6" value="As a student I want to be able to delete a chat" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-9" value="As a student I want to be able to understand what my professor said during a certain part of lecture" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-11" value="Student has a Page listing their courses as folders and inside folders are lessons and inside lessons are individual lectures. There is a button to start chat at each level in the file structure" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-20" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-12" value="Login Screen with login and password. If user exists redirect to homepage, if user does not exist redirect to create user page" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-16" value="Student will have a chat box and a search bar that will allow them to query the course, lesson or lecture. The chat will be viewable in the chat bot." style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="100" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-19" value="As a student I want to be able to login to my account" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-20" value="As a student I want to be able to create an account and see my courses" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;User Stories&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Acceptance&amp;nbsp;&lt;br&gt;Criteria&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="-270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-240" width="50" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-35" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="385" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-36" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="265" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-37" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="145" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-38" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="25" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-39" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-95" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-41" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-240" width="50" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-42" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-95" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-43" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="25" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-56" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-57" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="-270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-58" value="As a professor I want to view all the chats associated with my course" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-20" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-59" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="-20" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-60" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="-140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-61" value="As a professor I want to add my Course to the platform" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-62" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;User Stories&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-63" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Acceptance&amp;nbsp;&lt;br&gt;Criteria&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1955" y="-270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-64" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="25" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-65" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="-95" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-66" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="-95" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-67" value="" style="line;strokeWidth=2;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="25" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-68" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;STUDENT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-69" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;PROFESSOR&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-70" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="-240" width="50" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7eOik9Orw1UgnDRmK48w-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="-240" width="50" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
